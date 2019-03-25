@@ -43,7 +43,10 @@ public class DisasterActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_disaster);
         rs = findViewById(R.id.recy);
+//RecyclerView is flexible and efficient version of ListView. It is an container for rendering larger data set of views
+//that can be recycled and scrolled very efficiently.        
         rs.addItemDecoration(new DividerItemDecoration(this,DividerItemDecoration.VERTICAL));
+//additemdecoration draws dividers b/w various children of the view
         myDataset = new ArrayList<>();
         getData();
     }
@@ -93,8 +96,7 @@ public class DisasterActivity extends AppCompatActivity {
                 public void onFailure(Call call, IOException e) {
                 }
 
-
-                @Override
+           @Override
                 public void onResponse(Call call, Response response) {
                     try {
                         String jsonData = response.body().string();
@@ -103,6 +105,7 @@ public class DisasterActivity extends AppCompatActivity {
                             jsonObject = new JSONObject(jsonData);
                             JSONArray ar = jsonObject.getJSONArray("data");
                             myDataset.clear();
+//taking the data from API in form of a JSON array passing them as constuctor parameters to disaster class object                            
                             for (int i = 0; i < ar.length(); i++) {
                                 JSONObject a = ar.getJSONObject(i);
                                 String x = a.getJSONObject("fields").getString("name").trim();
@@ -127,7 +130,7 @@ public class DisasterActivity extends AppCompatActivity {
             LinearLayoutManager mLayoutManager = new LinearLayoutManager(DisasterActivity.this);
             rs.setLayoutManager(mLayoutManager);
 
-            // specify an adapter (see also next example)
+            // specify an adapter :Adapter is a bridge between UI component and data source that helps us to fill data in UI component.
             adapter = new EventHandler(myDataset, DisasterActivity.this);
             rs.setAdapter(adapter);
         }
@@ -135,14 +138,12 @@ public class DisasterActivity extends AppCompatActivity {
             Toast.makeText(this,"No Internet Connection, try again!" , Toast.LENGTH_LONG).show();
         }
     }
-
-
-
-    public boolean onCreateOptionsMenu(Menu menu) {
+//adding options in the menu
+  public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.options_menu,menu);
         return true;
     }
-
+//to perform event handling on the menus
     @Override
     public boolean onOptionsItemSelected(MenuItem menuItem) {
 
