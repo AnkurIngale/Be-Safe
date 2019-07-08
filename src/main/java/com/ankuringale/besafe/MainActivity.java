@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                         finish();
                     }
                 } , 2000);
-
+//handler runs on the main UI thread and manages time of various events the 2000 denotes 2 seconds
             }
 
             else{

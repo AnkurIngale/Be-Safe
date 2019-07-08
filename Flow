@@ -1,0 +1,6 @@
+FLOW:
+MainActivity makes a call to disasterActivity which creates a recycler view containing title and small glimse of the mishap.
+This data is taken via a call to web relief API. Okhttp is used as the data exchange client.
+EventHandler passes the dataset and context of each returnd JSONobject to adapter which on a further tap calls FullStoryActivity,
+passing the url with the intent. Now another API call is made which returns all the details about the mishap in the from of a JSONarray.
+Information is then manipulated and displayed to the user.

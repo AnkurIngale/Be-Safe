@@ -35,7 +35,13 @@ public class FullStoryActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_full_story);
+        
         s = getIntent().getStringExtra("url");
+//Return the intent that started this activity.
+//If you start an Activity with some data
+//intent.putExtra("someKey", someData);
+//you can retrieve this data using getIntent in the new activity:        
+
         title = findViewById(R.id.titlee);
         status = findViewById(R.id.status);
         date = findViewById(R.id.dateOf);
@@ -103,8 +109,8 @@ public class FullStoryActivity extends AppCompatActivity {
                                 }
                                 final String cs = c;
                                 final String pts = pt;
-
-                                runOnUiThread(new Runnable() {
+//as the below instructions change the UI, these need to be executed on the main thread so we use runonUIthread
+                                runOnUiThread(new Runnable() {6
                                     @Override
                                     public void run() {
                                         title.setText(titl);
