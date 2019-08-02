@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="people">
+        <item>1 - 10</item>
+        <item>11 - 20</item>
+        <item>21 - 30</item>
+        <item>31 - 40</item>
+        <item>41 - 50</item>
+    </array>
+</resources>a
