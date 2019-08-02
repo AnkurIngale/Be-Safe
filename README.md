@@ -1,11 +1,8 @@
 # Be-Safe
-CodeFunDo App project for 2018. Members: Ankur Ingale, Mihir Yadav, Harit Gupta
-IIT Guwahati
+A Microsoft CodeFunDo App project for 2018. Members: Ankur Ingale, Mihir Yadav, Harit Gupta.
+Institute : IIT Guwahati
 
-Basic features to be implemented:
-
-1. News feed that would make people aware of the natural calamities that have taken place recently.
-
-2. Data would be collected from an external API. 
-
-3. We will also mail the disaster relief authorities, notifying the location of the user in case a disaster occurs and he/she gets stranded.
+# Features implemented:
+1. A news feed is implemented which will display the news of all the natural disasters around the globe using ReliefWeb API.
+2. Clicking on any news feed  will display all the information availabble to the viewer.
+3. The app also has an emergency SOS option in case you are stuck somewhere. The message is sent to the relief organisation which will then be circulated accordingly to save you as quickly as possible.
