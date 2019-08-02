@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Aug 03 02:40:02 IST 2019
+0.baseType=DIRECTORY
+0.base=/Users/ankuringale/Downloads/Projects/Be-Safe/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

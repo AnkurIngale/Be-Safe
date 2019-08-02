@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a109784c85d6263d040c6b9f7a3c8a88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f5b316c8a9165650cec44fec2a723edb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/cc8d078ad66e9f0fc516a27d2141ef41/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/cd1dadf590505753c5e1c9b7ad0cca34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/9f7fd9ba199f275b97b35d0f38040d6d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-places-16.0.0.aar/f2777b02a2f1056a6e1c7fe23d62733e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/8c9eab51e79af68277a1f268c009d711/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ae2aebce3c9fadc219a9d65f43354fcb/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/aef70fdf1d11571896bca7ec9a5e7628/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/18af1dd38e6fbcab10021bc98b2ecb54/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/8f239822a0c47c8297ce8f563795abe1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/af0f901df170acc49bd5817a952db856/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/df4ff6f1b3fab8cc602ccf5498b929a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dacc3f1fb5de074815ed07ad0a4f150b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3582ef8044e10fbf969bba2fc65734c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f17faf4ff9bfb1e6f6570ee80a3539ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e6fa2d6b449201d8d848a62d77ef195c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/26c132885ec473dd54049b13bbeea713/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7fec28ba6ad0094631011e84fc805a19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8257da71ca5d01866254c250927e57cc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f94be232ba6dc4fb580837480a9d69f5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/36c087b6ff9085e337af01e743c0fe95/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/189de45414f7abae059cb685456b346d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b844bf0f14cd66cf260aa20fd074cad5/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+		INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/8c9eab51e79af68277a1f268c009d711/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/8c9eab51e79af68277a1f268c009d711/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/8c9eab51e79af68277a1f268c009d711/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/8c9eab51e79af68277a1f268c009d711/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:9:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/cc8d078ad66e9f0fc516a27d2141ef41/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/cc8d078ad66e9f0fc516a27d2141ef41/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/9f7fd9ba199f275b97b35d0f38040d6d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/9f7fd9ba199f275b97b35d0f38040d6d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-places-16.0.0.aar/f2777b02a2f1056a6e1c7fe23d62733e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-places-16.0.0.aar/f2777b02a2f1056a6e1c7fe23d62733e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/8c9eab51e79af68277a1f268c009d711/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/8c9eab51e79af68277a1f268c009d711/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ae2aebce3c9fadc219a9d65f43354fcb/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ae2aebce3c9fadc219a9d65f43354fcb/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/aef70fdf1d11571896bca7ec9a5e7628/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/aef70fdf1d11571896bca7ec9a5e7628/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/18af1dd38e6fbcab10021bc98b2ecb54/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/18af1dd38e6fbcab10021bc98b2ecb54/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/8f239822a0c47c8297ce8f563795abe1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/8f239822a0c47c8297ce8f563795abe1/AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:15:9-40
+activity#com.ankuringale.besafe.MainActivity
+ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:20:27-74
+activity#com.ankuringale.besafe.DisasterActivity
+ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:23:9-54
+	android:name
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:23:19-51
+activity#com.ankuringale.besafe.FullStoryActivity
+ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:24:9-55
+	android:name
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:24:19-52
+activity#com.ankuringale.besafe.EmergencyActivity
+ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:25:9-64
+	android:name
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml:25:19-52
+uses-sdk
+INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a109784c85d6263d040c6b9f7a3c8a88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a109784c85d6263d040c6b9f7a3c8a88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f5b316c8a9165650cec44fec2a723edb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f5b316c8a9165650cec44fec2a723edb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/cc8d078ad66e9f0fc516a27d2141ef41/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/cc8d078ad66e9f0fc516a27d2141ef41/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/cd1dadf590505753c5e1c9b7ad0cca34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/cd1dadf590505753c5e1c9b7ad0cca34/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/9f7fd9ba199f275b97b35d0f38040d6d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/9f7fd9ba199f275b97b35d0f38040d6d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-places-16.0.0.aar/f2777b02a2f1056a6e1c7fe23d62733e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-places-16.0.0.aar/f2777b02a2f1056a6e1c7fe23d62733e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/8c9eab51e79af68277a1f268c009d711/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/8c9eab51e79af68277a1f268c009d711/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ae2aebce3c9fadc219a9d65f43354fcb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ae2aebce3c9fadc219a9d65f43354fcb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/aef70fdf1d11571896bca7ec9a5e7628/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/aef70fdf1d11571896bca7ec9a5e7628/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/18af1dd38e6fbcab10021bc98b2ecb54/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/18af1dd38e6fbcab10021bc98b2ecb54/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/8f239822a0c47c8297ce8f563795abe1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/8f239822a0c47c8297ce8f563795abe1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/af0f901df170acc49bd5817a952db856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/af0f901df170acc49bd5817a952db856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/df4ff6f1b3fab8cc602ccf5498b929a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/df4ff6f1b3fab8cc602ccf5498b929a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dacc3f1fb5de074815ed07ad0a4f150b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dacc3f1fb5de074815ed07ad0a4f150b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3582ef8044e10fbf969bba2fc65734c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3582ef8044e10fbf969bba2fc65734c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f17faf4ff9bfb1e6f6570ee80a3539ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f17faf4ff9bfb1e6f6570ee80a3539ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e6fa2d6b449201d8d848a62d77ef195c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e6fa2d6b449201d8d848a62d77ef195c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/26c132885ec473dd54049b13bbeea713/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/26c132885ec473dd54049b13bbeea713/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7fec28ba6ad0094631011e84fc805a19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7fec28ba6ad0094631011e84fc805a19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8257da71ca5d01866254c250927e57cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8257da71ca5d01866254c250927e57cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f94be232ba6dc4fb580837480a9d69f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f94be232ba6dc4fb580837480a9d69f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/36c087b6ff9085e337af01e743c0fe95/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/36c087b6ff9085e337af01e743c0fe95/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/189de45414f7abae059cb685456b346d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/189de45414f7abae059cb685456b346d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b844bf0f14cd66cf260aa20fd074cad5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b844bf0f14cd66cf260aa20fd074cad5/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+		INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+		ADDED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+		INJECTED from /Users/ankuringale/Downloads/Projects/Be-Safe/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/8c9eab51e79af68277a1f268c009d711/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/8c9eab51e79af68277a1f268c009d711/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/8c9eab51e79af68277a1f268c009d711/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ae2aebce3c9fadc219a9d65f43354fcb/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ae2aebce3c9fadc219a9d65f43354fcb/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ae2aebce3c9fadc219a9d65f43354fcb/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ae2aebce3c9fadc219a9d65f43354fcb/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/8f239822a0c47c8297ce8f563795abe1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/8f239822a0c47c8297ce8f563795abe1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ankuringale/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/8f239822a0c47c8297ce8f563795abe1/AndroidManifest.xml:24:13-58
