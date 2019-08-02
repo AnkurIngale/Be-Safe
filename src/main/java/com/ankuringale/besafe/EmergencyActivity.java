@@ -31,8 +31,7 @@ public class EmergencyActivity extends AppCompatActivity {
 
 
     private LocationManager locationManager;
-    private String msg = "";
-    int x;
+    private String msg = "" , a;
 
 //    public class SpinnerActivity implements AdapterView.OnItemSelectedListener {
 //
@@ -75,14 +74,13 @@ public class EmergencyActivity extends AppCompatActivity {
         spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int pos, long id) {
-                String a = parent.getItemAtPosition(pos).toString();
+                a = parent.getItemAtPosition(pos).toString();
                 Log.d("call one :", a);
-                x = pos;
             }
 
             @Override
             public void onNothingSelected(AdapterView<?> parent) {
-                x = 0;
+                a = "";
             }
         });
 
@@ -112,18 +110,10 @@ public class EmergencyActivity extends AppCompatActivity {
                     Log.v(EmergencyActivity.class.getSimpleName(), Double.toString(location.getLongitude()));
                     b.setClickable(false);
                     String s = "Latitude: "+location.getLatitude()+"\n"+ " Longitude: "+location.getLongitude();
-                    if(x == 0) msg +="I am ";
 
-                    else {
-                        String cnt="";
-                        msg +="We are ";
-                        if(x==1) cnt = "2 ";
-                        else if (x==2) cnt = "more than 5";
-                        else if (x==3) cnt = "more than 10";
-                        msg += cnt;
-                        msg += " people";
-                    }
-                    msg += " stuck here at \n";
+                    msg +="We are ";
+                    msg += a;
+                    msg += " people stuck here at \n";
                     msg += s;
                     msg+='\n';
                     EditText customsg = findViewById(R.id.custom);

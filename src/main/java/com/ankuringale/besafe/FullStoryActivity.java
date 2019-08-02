@@ -110,7 +110,7 @@ public class FullStoryActivity extends AppCompatActivity {
                                 final String cs = c;
                                 final String pts = pt;
 //as the below instructions change the UI, these need to be executed on the main thread so we use runonUIthread
-                                runOnUiThread(new Runnable() {6
+                                runOnUiThread(new Runnable() {
                                     @Override
                                     public void run() {
                                         title.setText(titl);
